@@ -1,0 +1,10 @@
+baseurl = "http://mek.github.io/"
+title = "Pure as the Driven Slush"
+theme = "simple-hugo"
+languageCode = "en-us"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+[taxanomies]
+  category = "categories"
+canonifyurls =  true
